@@ -1,4 +1,4 @@
-# Project Description
+# PROJECT DESCRIPTION
 
 A company wants to set a unique ID number for its employees.
 
@@ -12,11 +12,11 @@ A company wants to set a unique ID number for its employees.
 
 *****The number of characters must be 10.
 
-We are asked to create a system that will check ID numbers with this feature.
+We are asked to create a system that will check ID numbers with these features.
 
-According to the scenario, each department manager will first enter the number of employees in his team into the system. And he will be allowed to enter only the number of ID numbers he entered.
+According to this scenario, each department manager will first enter the number of employees in his team into the system. He will be allowed to enter the number of ID numbers he entered.
 
-The system will output the number of people in the team and Valid for correct ID numbers and Invalid for incorrect ID numbers.
+The system output will be "Valid" for correct ID numbers and "Invalid" for incorrect ID numbers.
 
 **IN Additon:** 
 You can use this code for similar control systems such as numbers or passwords.
